@@ -1,9 +1,8 @@
 ################################# Banner ##################################
 banner:
   bg_image: "images/backgrounds/banner.jpg"
-  title : "The development of technological solutions is our forte"
-  content : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum voluptatem enim
-            quibusdam a necessitatibus! Adipisci culpa inventore harum optio vitae totam aliquam, iusto minus quo hic ipsam."
+  title : "Below Technologies represents in the Switzerland and Europa elite of IT firms"
+  content : "from Siberia with excellent know hows, own products and experience from realized projects"
             
   # button primary
   button_solid:
@@ -23,7 +22,7 @@ cta:
   title : "Looking for First-Class PHP Developer?"
   button:
     enable : true
-    label : "get a qoute"
+    label : "Contact us"
     link : "contact"
 
 ################################## about ####################################
